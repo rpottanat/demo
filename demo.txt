@@ -1,2 +1,3 @@
 Sample Text file
 second branch change
+Third change only in master
