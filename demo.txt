@@ -4,3 +4,5 @@ Third change only in master
 Fourth change only in Master
 Fith change only in master
 Sixth change in branch Third
+
+Seventh change only in master
